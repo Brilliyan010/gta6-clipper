@@ -90,6 +90,12 @@ spektakuler di 2 detik pertama + fast-cut beats + pitch terbaca 8 detik.
   thinking_wellformed, thinking_in_window (157 timestamp di jendela),
   thinking_turns (45), thinking_fresh, transcripts_run_record,
   thinking_own_work.
-- Check ulang setelah commit (lihat bawah).
+- Check ulang setelah commit 28e1b38 (20 Nov 08:21 WIB): **15 passed,
+  1 failed, 6 skipped** — hanya thinking_priced yang gagal (0 usage
+  rows; baris usage Muse baru ditulis setelah pesan terkirim, diambil
+  ulang di job submit nanti). thinking_reproduces 91,0% authored
+  (183/201 baris; main.ts 32 authored lines), thinking_revised lolos
+  (main.ts dari 3 pesan tulis/edit), thinking_fresh lolos (183 baris
+  mengutip anchor sebelum tulis pertama), thinking_in_window lolos.
 - Play code terverifikasi via check: `makefun-blimp-moonbeam-atrium`
   (code 0 dari 4).
